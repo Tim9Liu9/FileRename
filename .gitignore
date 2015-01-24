@@ -1,0 +1,5 @@
+﻿# igmore the bin , gen 
+bin/
+gen/
+
+*.class
